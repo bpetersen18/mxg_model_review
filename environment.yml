@@ -1,0 +1,7 @@
+name: mxg_model_review
+channels:
+  - conda-forge
+  - R
+dependencies:
+  - r-tidyverse
+  - r-rentrez
